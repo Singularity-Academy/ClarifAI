@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="frontend/src/assets/illus/illus_hero_16.png" alt="ClarifAI Logo" width="200" height="200" style="margin-bottom: 20px;">
+<img src="illus_hero_16.png" alt="ClarifAI Logo" width="200" height="200" style="margin-bottom: 20px;">
 
 ![Python Version](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![Go Version](https://img.shields.io/badge/Go-1.23%2B-blue)
