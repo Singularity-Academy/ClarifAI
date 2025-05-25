@@ -1,4 +1,4 @@
-# 🎓 Singularity Academy (知澜 AI 在线学校)
+# 🎓 ClarifAI (知澜 AI 在线学校)
 
 <div align="center">
 
